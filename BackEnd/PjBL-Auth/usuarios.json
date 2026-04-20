@@ -1,0 +1,7 @@
+[ {
+  "id" : "6049a885-ea6b-4b9d-a943-283839ce64c2",
+  "nome" : "Arthur",
+  "email" : "arthur@teste.com",
+  "role" : "USER",
+  "senhaHash" : "$2a$12$jJsw18J9LhyR2WA0Zcqjo.ynruwc6Ka9NXrGIwOtjWh1xkvQEDe1W"
+} ]

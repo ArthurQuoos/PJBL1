@@ -1,0 +1,7 @@
+/Users/arthurtreehouseenglish.com.br/Documents/Projetos Arthur/PUCPR/seguranca/PJBL1/PjBL1 Seg/BackEnd/PjBL-Auth/src/main/java/com/pucpr/Main.java
+/Users/arthurtreehouseenglish.com.br/Documents/Projetos Arthur/PUCPR/seguranca/PJBL1/PjBL1 Seg/BackEnd/PjBL-Auth/src/main/java/com/pucpr/dto/LoginRequest.java
+/Users/arthurtreehouseenglish.com.br/Documents/Projetos Arthur/PUCPR/seguranca/PJBL1/PjBL1 Seg/BackEnd/PjBL-Auth/src/main/java/com/pucpr/dto/RegisterRequest.java
+/Users/arthurtreehouseenglish.com.br/Documents/Projetos Arthur/PUCPR/seguranca/PJBL1/PjBL1 Seg/BackEnd/PjBL-Auth/src/main/java/com/pucpr/handlers/AuthHandler.java
+/Users/arthurtreehouseenglish.com.br/Documents/Projetos Arthur/PUCPR/seguranca/PJBL1/PjBL1 Seg/BackEnd/PjBL-Auth/src/main/java/com/pucpr/model/Usuario.java
+/Users/arthurtreehouseenglish.com.br/Documents/Projetos Arthur/PUCPR/seguranca/PJBL1/PjBL1 Seg/BackEnd/PjBL-Auth/src/main/java/com/pucpr/repository/UsuarioRepository.java
+/Users/arthurtreehouseenglish.com.br/Documents/Projetos Arthur/PUCPR/seguranca/PJBL1/PjBL1 Seg/BackEnd/PjBL-Auth/src/main/java/com/pucpr/service/JwtService.java
